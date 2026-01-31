@@ -34,31 +34,31 @@ The learning never stops. I'm constantly exploring new projects, from bare-metal
 ## 🔧 Languages and Tools:
 
 <p align="left"> 
-  <a href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/> </a>
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a>
-  <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/> </a>
-  <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/fastapi.png" alt="FastAPI"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> </a>
-  <a href="https://www.arm.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/arm-processor.png" alt="ARM"/> </a>
-  <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker"/> </a>
-  <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/github.png" alt="GitHub"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/> </a>
+  <a href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/> </a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/> </a>
+  <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/> </a>
+  <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/> </a>
+  <a href="https://www.arm.com/" target="_blank"> <img src="https://cdn.simpleicons.org/arm/0091BD" width="48" height="48" alt="ARM"/> </a>
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=2001J&theme=graywhite" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=2001J&theme=default" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -70,6 +70,6 @@ Top Languages do not indicate my skill level; it's a GitHub metric to determine 
 
 <p align="center">
   <a href="https://github.com/2001J">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001J&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001J&layout=compact&theme=default&langs_count=8" alt="Top Langs" />
   </a>
 </p>

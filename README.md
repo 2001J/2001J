@@ -2,7 +2,11 @@
 
 <p align="center">
   <a href="https://2001j.github.io/my-portfolio/">
-    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
+    <svg alt="Portfolio" title="Portfolio" height="48" width="48" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portfolio">
+      <rect x="1" y="3" width="22" height="18" rx="2" fill="#0d1117" />
+      <path d="M7 9l3 3-3 3" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M12 15h5" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+    </svg>
   </a>
   <a href="https://github.com/2001J">
     <picture>

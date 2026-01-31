@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Joseph! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
 <p align="center">
+  <a href="https://2001j.github.io/my-portfolio/">
+    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
+  </a>
   <a href="https://github.com/2001J">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/in/2001J/">
+  <a href="https://www.linkedin.com/in/joseph-jethan/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
-  </a>
-  <a href="https://twitter.com/2001J">
-    <img alt="Twitter" title="Twitter" height="48" width="48" src="https://cdn.simpleicons.org/x/black">
   </a>
 </p>
 
@@ -51,6 +51,8 @@ The learning never stops. I'm constantly exploring new projects, from bare-metal
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/> </a>
+  <a href="https://spring.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring"/> </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48" height="48" alt="Spring Boot"/> </a>
   <a href="https://www.arm.com/" target="_blank"> <img src="https://cdn.simpleicons.org/arm/0091BD" width="48" height="48" alt="ARM"/> </a>
 </p>
 

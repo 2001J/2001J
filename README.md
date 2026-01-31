@@ -26,7 +26,7 @@ I'm constantly working on projects that challenge me to think differently. From 
 
 ## 🤝 Let's Collaborate
 
-💡 I'm always interested in collaborating on projects involving **systems programming**, **embedded systems**, **web backend**, or anything that pushes technical boundaries. If you're working on something interesting, feel free to reach out at **your.josejeth26@gmail.com**
+💡 I'm always interested in collaborating on projects involving **systems programming**, **embedded systems**, **web backend**, or anything that pushes technical boundaries. If you're working on something interesting, feel free to reach out at **josejeth26@gmail.com**
 
 ## 🔧 Languages and Tools:
 

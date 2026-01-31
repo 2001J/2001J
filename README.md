@@ -58,7 +58,7 @@ The learning never stops. I'm constantly exploring new projects, from bare-metal
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=2001J&theme=default" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=2001J&theme=graywhite" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -70,6 +70,6 @@ Top Languages do not indicate my skill level; it's a GitHub metric to determine 
 
 <p align="center">
   <a href="https://github.com/2001J">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001J&layout=compact&theme=default&langs_count=8" alt="Top Langs" />
+    <img src="https://my-readme-stats-phi.vercel.app/api/top-langs/?username=2001J&theme=graywhite" alt="Top Langs" />
   </a>
 </p>

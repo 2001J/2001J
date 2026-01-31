@@ -1,18 +1,19 @@
-<div align="center">
-  
-# Hi there, I'm Joseph 👋
+<h1 align="center">Hi there, I'm Joseph! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
-<a href="https://twitter.com/2001J">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://github.com/2001J">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/2001J">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/2001J">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/2001J/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
+  </a>
+  <a href="https://twitter.com/2001J">
+    <img alt="Twitter" title="Twitter" height="48" width="48" src="https://cdn.simpleicons.org/x/black">
+  </a>
+</p>
 
 ## 🧑‍💻 About Me
 
@@ -20,55 +21,55 @@ A software engineer who gets excited about building things from scratch. My inte
 
 I believe in writing code that's both elegant and practical, software that actually solves problems.
 
-## 🚀 What I'm Building
+## 🚀 Always Building
 
-I'm constantly working on projects that challenge me to think differently. From bare-metal programming on ARM to full-stack web applications, I like exploring the full spectrum of software development. Currently focused on **systems programming**, **IoT simulations**, **sensor fusion** and **backend APIs**.
+The learning never stops. I'm constantly exploring new projects, from bare-metal programming on ARM to full-stack web applications. Currently focused on **systems programming**, **IoT simulations**, **sensor fusion** and **backend APIs**.
 
 ## 🤝 Let's Collaborate
 
-💡 I'm always interested in collaborating on projects involving **systems programming**, **embedded systems**, **web backend**, or anything that pushes technical boundaries. If you're working on something interesting, feel free to reach out at **josejeth26@gmail.com**
+💡 I'm always up for collaborating on projects involving **systems programming**, **embedded systems**, **web backend**, or anything that pushes technical boundaries. If that sounds like you, feel free to reach out at [josejeth26@gmail.com](mailto:josejeth26@gmail.com)
+
+---
 
 ## 🔧 Languages and Tools:
 
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-</div>
+<p align="left"> 
+  <a href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/> </a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a>
+  <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/fastapi.png" alt="FastAPI"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> </a>
+  <a href="https://www.arm.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/arm-processor.png" alt="ARM"/> </a>
+  <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/github.png" alt="GitHub"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/> </a>
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2001J&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=2001J&theme=graywhite" alt="GitHub Streak" />
+  </a>
+</p>
 
 <br/>
 
 ## 📊 Top Languages
 
-<div align="center">
+Top Languages do not indicate my skill level; it's a GitHub metric to determine which languages have the most code on my GitHub.
 
-**Note:** Top languages is a metric of which languages have the most code on my GitHub, not my skill level.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001J&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-*Building software that matters, one line at a time.* 💻
-
-</div>
+<p align="center">
+  <a href="https://github.com/2001J">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001J&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Top Langs" />
+  </a>
+</p>

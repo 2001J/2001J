@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://2001j.github.io/my-portfolio/">
-    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
+    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   </a>
   <a href="https://github.com/2001J">
     <picture>

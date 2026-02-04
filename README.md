@@ -60,7 +60,7 @@ The learning never stops. I'm constantly exploring new projects, from bare-metal
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eta-puce.vercel.app/?user=2001J&theme=graywhite" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eta-puce.vercel.app/?user=2001J&theme=graywhite&cache_seconds=1" alt="GitHub Streak" />
   </a>
 </p>
 

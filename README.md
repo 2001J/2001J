@@ -47,7 +47,12 @@ The learning never stops. I'm constantly exploring new projects, from bare-metal
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi"/> </a>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/> </a>
-  <a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/> </a>
+  <a href="https://github.com/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img src="https://cdn.simpleicons.org/github" width="48" height="48" alt="GitHub"/>
+    </picture>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/> </a>

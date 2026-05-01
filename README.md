@@ -1,19 +1,12 @@
 <h1 align="center">Hi there, I'm Joseph! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
-<p align="center">
-  <a href="https://2001j.github.io/my-portfolio/">
-    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  </a>
-  <a href="https://github.com/2001J">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/joseph-jethan/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://2001j.github.io/my-portfolio/"><img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></a></td>
+    <td align="center"><a href="https://github.com/2001J"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"/></picture></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/joseph-jethan/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a></td>
+  </tr>
+</table>
 
 ## 🧑‍💻 About Me
 

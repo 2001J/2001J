@@ -54,7 +54,7 @@ The learning never stops. I'm constantly exploring new projects, from bare-metal
   <tr>
     <td><a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48" height="48" alt="Spring Boot"/></a></td>
     <td><a href="https://www.arm.com/" target="_blank"><img src="https://cdn.simpleicons.org/arm/0091BD" width="48" height="48" alt="ARM"/></a></td>
-    <td><a href="https://www.rust-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust"/></a></td>
+    <td><a href="https://www.rust-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust"/></a></td>
     <td></td>
     <td></td>
     <td></td>

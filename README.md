@@ -2,9 +2,9 @@
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://2001j.github.io/my-portfolio/"><img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></a></td>
-    <td align="center"><a href="https://github.com/2001J"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"/></picture></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/joseph-jethan/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a></td>
+    <td align="center"><a href="https://2001j.github.io/my-portfolio/"><img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://skillicons.dev/icons?i=bash"/></a></td>
+    <td align="center"><a href="https://github.com/2001J"><img alt="GitHub" title="GitHub" height="48" width="48" src="https://skillicons.dev/icons?i=github"/></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/joseph-jethan/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://skillicons.dev/icons?i=linkedin"/></a></td>
   </tr>
 </table>
 
@@ -28,33 +28,33 @@ The learning never stops. I'm constantly exploring new projects, from bare-metal
 
 <table>
   <tr>
-    <td><a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/></a></td>
-    <td><a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/></a></td>
-    <td><a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/></a></td>
-    <td><a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/></a></td>
-    <td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/></a></td>
-    <td><a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/></a></td>
+    <td><a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/></a></td>
+    <td><a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/></a></td>
+    <td><a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/></a></td>
+    <td><a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a></td>
+    <td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a></td>
+    <td><a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js"/></a></td>
-    <td><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/></a></td>
-    <td><a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/></a></td>
-    <td><a href="https://www.raspberrypi.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi"/></a></td>
-    <td><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino"/></a></td>
+    <td><a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js"/></a></td>
+    <td><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/></a></td>
+    <td><a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a></td>
+    <td><a href="https://www.raspberrypi.org/" target="_blank"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi"/></a></td>
+    <td><a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/></a></td>
-    <td><a href="https://github.com/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="https://cdn.simpleicons.org/github" width="48" height="48" alt="GitHub"/></picture></a></td>
-    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/></a></td>
-    <td><a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/></a></td>
-    <td><a href="https://spring.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring"/></a></td>
+    <td><a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a></td>
+    <td><a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/></a></td>
+    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/></a></td>
+    <td><a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL"/></a></td>
+    <td><a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48" height="48" alt="Spring Boot"/></a></td>
-    <td><a href="https://www.arm.com/" target="_blank"><img src="https://cdn.simpleicons.org/arm/0091BD" width="48" height="48" alt="ARM"/></a></td>
-    <td><a href="https://www.rust-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust"/></a></td>
+    <td><a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=springboot" width="48" height="48" alt="Spring Boot"/></a></td>
+    <td><a href="https://www.arm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=arm" width="48" height="48" alt="ARM"/></a></td>
+    <td><a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust"/></a></td>
     <td></td>
     <td></td>
     <td></td>
